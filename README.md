@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://voxyard.com/assets/img/content/coding.gif" alt="coding"/>
 - 🌱 Java **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://yatinkumar01.github.io/](https://yatinkumar01.github.io/)
+- 👨‍💻 <a href="https://yatinkumar01.github.io/">Portfolio</a>
 
 - 📫 How to reach me **yatins9152015@gmail.com**
 
