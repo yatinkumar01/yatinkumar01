@@ -6,6 +6,8 @@
 
 - 👨‍💻 <a href="https://yatinkumar01.github.io/">Portfolio</a>
 
+👨‍💻 <a href="https://drive.google.com/file/d/1MGyjjc63sdK7NpgI1kDWiVHnjwIdv3s2/view?usp=share_link">Resume</a>
+
 - 📫 How to reach me **yatins9152015@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
