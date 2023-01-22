@@ -1,14 +1,16 @@
 [![MasterHead](https://www.waltercedric.com/wp-content/uploads/2020/03/java.jpg)]()
 <h1 align="center">Hi 👋, I'm Yatin Kumar</h1>
-<h3 align="center">A passionate backend developer from India.</h3>
-<img align="right" width="400" src="https://voxyard.com/assets/img/content/coding.gif" alt="coding"/>
-- 🌱 Java **Spring Boot**
+<H2>A passionate Java Backend developer</h2>
 
-- 👨‍💻 <a href="https://yatinkumar01.github.io/">Portfolio</a>
+An enthusiastic fresher with highly motivated and leadership skills having Master degree in Computer Application. My passion lies in solving real-life problems with tailored Data Structures and Algorithms and cutting down their complexity. Eager to learn new technologies and methodologies.
 
-👨‍💻 <a href="https://drive.google.com/file/d/1MGyjjc63sdK7NpgI1kDWiVHnjwIdv3s2/view?usp=share_link">Resume</a>
+🌱 I’m currently learning Java, Spring, Hibernate and SQL
 
-- 📫 How to reach me **yatins9152015@gmail.com**
+👨‍💻 Want to know more about me? Checkout <a href="https://yatinkumar01.github.io/">My Portfolio</a>
+ and <a href="https://1drv.ms/b/s!ArCtzZvrS3f7gQmXiuDGgfF6nMPn?e=7IJAkx">Resume</a>
+💬 Ask me about Backend, Java, Spring, RestApi
+
+📫 How to reach me yatins9152015@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
